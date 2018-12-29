@@ -1,2 +1,2 @@
-# guvi_Beginner_Set1
+# guvi_Beginner
 Guvi Questions Solution
